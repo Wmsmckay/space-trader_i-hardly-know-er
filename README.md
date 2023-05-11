@@ -1,2 +1,2 @@
-# space-trader_i-hardly-know-er
+# SpaceTrader? I hardly know her!
 A client for SpaceTrader API
